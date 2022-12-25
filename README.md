@@ -1,6 +1,6 @@
-### Hi👋there, I'm Muhammad Abyanda Tamaza 
+<p>Hi👋,Muhammad Abyanda Tamaza there and here is my stats</P>
 
-### and here is my stats
+### 
 <p align="center"><img src="https://www.codewars.com/users/Abyanda/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Abyanda&show_icons=true&include_all_commits=true&theme=monokai" alt="Abyanda GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abyanda&theme=monokai"/></br>
